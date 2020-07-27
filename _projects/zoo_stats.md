@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Zooniverse stats
+description: making an analytical dashboard in Ruby
 img: /assets/img/3.jpg
 importance: 2
 ---
