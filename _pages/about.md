@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
 
-news: true
+news: false
 social: true
 ---
 I am a joint author of 3 journal articles (41 total citations) in biochemistry and molecular biology. I have worked as a researcher at the Queensland Alliance for Agriculture and Food Innovation, the Centre for Advanced Imaging and the Australian Centre for Ecogenomics based at the University of Queensland, and the Department of Plant Sciences at the Univeristy of Oxford. I have also constructed a 4000 line analytical dashboard with underlying database during an internship with Zooniverse and I am currently completing a DPhil on bacterial chemotaxis at the University of Oxford funded by a Clarendon Award.
